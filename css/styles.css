@@ -9,13 +9,13 @@ body {
 	background-color: #fffcf8;
 }
 .about {
-	color: #000000;
+	color: #fff0e0;
 }
 
 /* Changing the background colour for the header */
 
 header {
-	background-color: #FFFFFF;
+	background-color: #000000;
 }
 
 /* Changing the background color for the navigation bar */
@@ -28,4 +28,7 @@ header {
 
 footer a:hover {
 	opacity: .5;
+}
+.since {
+	font-family: impact
 }
